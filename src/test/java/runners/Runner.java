@@ -17,7 +17,7 @@ public class Runner {
 }
 
 /*
-    Runner class'i testlerimizi tekli vela toplu olarak calistirmamizi saglar
+    Runner class'i testlerimizi tekli veya toplu olarak calistirmamizi saglar
     Runner class'i BOS bir class'dir
     burada asil isi yapan 2 tane notasyon
     ve iclerine yazdigimiz argumentlerdir.
